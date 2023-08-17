@@ -4,7 +4,7 @@
     "keywords": [
         "Queen Amdi",
         "WhatsApp",
-        "Black Amda",
+        "CYBER YASIYA",
         "multi-device"
     ],
     "website": "https://amdaniwasa.com/",
@@ -24,7 +24,7 @@
         "LANGUAGE": {
             "description": "Bot language",
             "required": true,
-            "value": "EN"
+            "value": "SI"
         },
         "TZ": {
             "description": "Your timezone",
